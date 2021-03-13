@@ -8,3 +8,8 @@ Para inicializar un proyecto node se debe usar el comando `npm init -y`ó `npm i
 ## Versión node
 `node --version`
 
+## Instalar express
+````
+npm i express
+
+
