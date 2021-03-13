@@ -11,3 +11,10 @@ Para inicializar un proyecto node se debe usar el comando `npm init -y`ó `npm i
 ## Instalar express
 ```
 npm i express
+```
+
+## Instalar nodemon de manera global
+```
+sudo npm i -g nodemon
+```
+
